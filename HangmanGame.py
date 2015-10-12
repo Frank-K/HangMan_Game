@@ -1,8 +1,8 @@
-#Name: Frank Karunaratna
-#Date: 3 June 2015
-#File Name: HangmanGame.py
-#Description: This program allows the user to play the game hangman with a
-#             randomly selected word from the input file.
+# Name: Frank Karunaratna
+# Date: 3 June 2015
+# File Name: HangmanGame.py
+# Description: This program allows the user to play the game hangman with a
+#              randomly selected word from the input file.
 
 from button2 import *
 from graphics import *
