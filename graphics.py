@@ -1,4 +1,3 @@
-# graphics.py
 """Simple object oriented graphics library  
 
 The library is designed to make it very easy for novice programmers to
